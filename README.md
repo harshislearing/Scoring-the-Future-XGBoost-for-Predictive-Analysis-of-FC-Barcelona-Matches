@@ -10,7 +10,11 @@ The project explores the application of machine learning models (Random Forest &
 
 🏆 Key Highlights
 Focus: Predict match outcomes for a single club (FC Barcelona) rather than general football prediction.
+
 Models Used: Random Forest Classifier & XGBoost Classifier
+
 Dataset: Manually created using statistics from fbref.com, focused solely on Barcelona’s matches.
+
 Accuracy Achieved: 72.22% on test set
+
 Research Paper: Included in this repository as final Fc Barca Research paper2.pdf
