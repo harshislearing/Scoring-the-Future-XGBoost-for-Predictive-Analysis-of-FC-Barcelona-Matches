@@ -1,10 +1,10 @@
-⚽ Scoring the Future: Predicting FC Barcelona Football Matches with XGBoost and Random Forest
+⚽ Scoring the Future: Predicting FC Barcelona Football Matches with XGBoost and Random Forest (IEEE Format)
 
 📚 Research Summary
 
 This repository presents the project and research paper:
 "Scoring the Future: XGBoost for Predictive Analysis of FC Barcelona Matches"
-Conducted by Harsh Dipdatt Patil, Ved Niteen Raut, and Anurag Das under Dr. Vishwanath Karad MIT World Peace University, Pune, India.
+Conducted by Harsh Dipdatt Patil, Ved Niteen Raut, and Anurag Das in IEEE format under Dr. Vishwanath Karad MIT World Peace University, Pune, India.
 
 The project explores the application of machine learning models (Random Forest & XGBoost) to predict the outcomes of FC Barcelona's football matches (Win / Draw / Loss) based on a self-curated dataset from the 2023/24 and 2024/25 seasons.
 
